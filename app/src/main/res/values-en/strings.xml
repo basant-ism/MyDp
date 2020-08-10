@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyDp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="create_dp">create dp</string>
+    <string name="your_dp">your dp</string>
+    <string name="information">Information</string>
+    <string name="about_us">About Us</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="logout">Logout</string>
+    <string name="version">Version</string>
+    <string name="set_wallpaper">Set Wallpaper</string>
+    <string name="sample">Sample</string>
+    <string name="upload">upload</string>
+    <string name="cancel">Cancel</string>
+    <string name="upload_a_photo_to_this_frame">Upload a photo to this frame</string>
+    <string name="add">add</string>
+    <string name="add_frame">Add this frame to your picture</string>
+    <string name="change_photo">Change photo</string>
+    <string name="click_photo">Click photo</string>
+    <string name="add_photo">Add Photo</string>
+    <string name="confirm_edit">Confirm edit</string>
+    <string name="save_your_dp">Save your DP</string>
+    <string name="save">SAVE</string>
+    <string name="loading">loading</string>
+    <string name="created_dp">Created DP</string>
+    <string name="saving">Saving...</string>
+    <string name="download">Download</string>
+
+    <string name="delete">Delete</string>
+    <string name="share">Share</string>
+    <string name="welcome_to_mydp">Welcome to MyDp</string>
+    <string name="do_you_want_lagout">Do you want logout?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="by_registering_you_agree_to">By registering you agree to</string>
+    <string name="term_and_conditions">"  Term and Conditions  "</string>
+    <string name="and">and</string>
+    <string name="privacy_policy">"   Privacy Policy   "</string>
+    <string name="of_the_my_city">of the My City</string>
+    <string name="create_account">account creating please wait...</string>
+    <string name="verification_email">We have sent you a verification link on your registered email</string>
+    <string name="facebook">Facebook</string>
+    <string name="register_to_mydp">Register to MyDp</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="register">Register</string>
+    <string name="google">Google</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account">Don\'t have an account</string>
+    <string name="register_now">Register Now</string>
+    <string name="forgot_password">Forgot password</string>
+    <string name="sign_in">Sign in...</string>
+    <string name="loging_in">loging in...</string>
+    <string name="we_are_indian">We are Indian</string>
+    <string name="check_your_email">Check your Email</string>
+    <string name="go_to_login">Go To Login</string>
+    <string name="send_feedback">Send Feedback</string>
+    <string name="type_message">Type Message</string>
+    <string name="send">Send</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="registered_email">Registered email</string>
+    <string name="sumbit">Sumbit</string>
+    <string name="no_terms">No Terms</string>
+    <string name="your_data_are_safe">Your data are safe</string>
+    <string name="rate_now">Rate Now</string>
+
+    <string name="user_email">user email</string>
+    <string name="name">Name</string>
+    <string name="home">Home</string>
+    <string name="settings">Settings</string>
+    <string name="navigation_drawer_open">Open Drawer</string>
+    <string name="navigation_drawer_close">Closed Drawer</string>
+    <string name="personalize">Personalize</string>
+    <string name="change_language_of_the_app">Change language of the app</string>
+    <string name="english">English</string>
+    <string name="change">Change</string>
+    <string name="city">City</string>
+    <string name="change_user_city">Change user city</string>
+    <string name="dark_theme">Dark theme</string>
+    <string name="change_app_theme">Change app theme</string>
+    <string name="setup_user_name_and_profile_picture">Setup user name and profile picture</string>
+    <string name="setup_profile">Setup profile</string>
+    <string name="support">Support</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="share_this_app">Share this app</string>
+    <string name="feedback">Feedback</string>
+    <string name="privacy">Privacy</string>
+    <string name="terms_of_use">Terms of use</string>
+    <string name="upload_user_photo">Upload user photo</string>
+    <string name="set_profile">Set profile</string>
+    <string name="clear_app_cache">Clear app cache</string>
+
+    <string name="facebook_app_id">223244688994818</string>
+    <string name="fb_login_protocol_scheme">fb223244688994818</string>
+    <string name="edit_photo">Edit Photo</string>
+    <string name="do_you_want_set_wallpaper">Do you want set as a wallpaper?</string>
+
+    <string name="do_you_want_save_this_image">Do you want as this image?</string>
+    <string name="save_image">Save Image</string>
+    <string name="delete_image">Delete Image</string>
+    <string name="do_want_delete_this">Do you want delete this?</string>
+</resources>

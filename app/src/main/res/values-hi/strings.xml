@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyDp</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="navigation_drawer_open">Drawer Open</string>
+    <string name="navigation_drawer_close">Drawer Closed</string>
+    <string name="setup_profile">कृप्या अपनी प्रोफ़ाईल पूर्ण करें</string>
+
+    <string name="settings">सेटिंग</string>
+    <string name="personalize">निजी</string>
+    <string name="english">इंग्लिश</string>
+    <string name="change_language_of_the_app">ऐप की भाषा बदलें</string>
+
+
+    <string name="change">बदलें</string>
+
+
+
+
+
+
+
+    <string name="dark_theme">डार्क थीम</string>
+    <string name="clear_app_cache">ऐप कचे मिटायें</string>
+    <string name="support">सहयोग</string>
+    <string name="rate_us">हमें रेटिंग दें!</string>
+    <string name="share_this_app">ऐप साझा करें</string>
+    <string name="feedback">प्रतिपुष्टि</string>
+
+    <string name="privacy">प्राइवेसी</string>
+    <string name="terms_of_use">उपयोग की शर्तें</string>
+
+
+
+
+
+
+
+
+    <string name="facebook">फ़सेबुक</string>
+    <string name="google">गूगल</string>
+    <string name="email">ईमेल</string>
+
+    <string name="forgot_password">पासवर्ड?</string>
+    <string name="login">लॉग इन</string>
+    <string name="don_t_have_an_account">अकाउंट नही है?</string>
+    <string name="register_now">रजिस्टर करें</string>
+    <string name="register_to_mydp">MyDp में रजिस्टर करें</string>
+    <string name="full_name">पूरा नाम</string>
+
+    <string name="password">पास्वर्ड</string>
+
+    <string name="register">रजिस्टर</string>
+    <string name="by_registering_you_agree_to">रजिस्ट्रेशन कर के आप CityTimes की</string>
+    <string name="term_and_conditions">"  उपयोग की शर्तें  "</string>
+    <string name="and">और</string>
+    <string name="privacy_policy">" प्राइवेसी पॉलिसी"</string>
+    <string name="of_the_my_city">से सहमित है</string>
+
+    <string name="add">जोड़े</string>
+
+
+    <string name="information">जानकारी</string>
+    <string name="about_us">हमारे बारे में</string>
+    <string name="contact_us">सम्पर्क</string>
+    <string name="version">वर्जन</string>
+    <string name="logout">लोग आउट</string>
+    <string name="loading">लोडिंग….</string>
+
+
+
+    <string name="check_your_email">अपना ईमेल चेक करें</string>
+    <string name="go_to_login">लोग इन के लिए जाए</string>
+    <string name="send_feedback">प्रतिपुष्टि भेजे</string>
+    <string name="type_message">संदेस लिखे</string>
+
+    <string name="send">भेजें</string>
+
+
+    <string name="reset_password">पास्वर्ड बदलें</string>
+
+    <string name="sumbit">सबमिट</string>
+
+    <string name="add_photo">फ़ोटो जोड़ें</string>
+    <string name="upload">डालें</string>
+
+    <string name="rate_now">रटे करें !</string>
+
+
+    <string name="no_terms">कोई टर्म नही</string>
+
+
+    <string name="cancel">हटायें</string>
+
+    <string name="yes">हाँ</string>
+    <string name="no">नही</string>
+
+    //
+    <string name="facebook_app_id">223244688994818</string>
+    <string name="fb_login_protocol_scheme">fb223244688994818</string>
+    <string name="verification_email">\"आपकी रेजिस्टर्ड ईमेल पर वेरिफ़िकेशन लिंक भेज दिया गया है"</string>
+    <string name="sign_in">साइन इन करें...</string>
+    <string name="do_you_want_lagout">क्या आप लॉगआउट करना चाहते हैं?</string>
+
+    <string name="change_user_city">उपयोगकर्ता शहर बदलें</string>
+    <string name="change_app_theme">ऐप थीम बदलें</string>
+    <string name="create_dp">डीपी बनाएं</string>
+    <string name="your_dp">आपका डी.पी.</string>
+    <string name="set_wallpaper">वालपेपर सेट करें</string>
+    <string name="sample">नमूना</string>
+    <string name="upload_a_photo_to_this_frame">इस फ्रेम में फोटो अपलोड करें</string>
+    <string name="add_frame">इस फ्रेम को अपने चित्र में जोड़ें</string>
+    <string name="change_photo">तस्वीर बदलिये</string>
+    <string name="click_photo">फोटो क्लिक करें</string>
+    <string name="confirm_edit">संपादन की पुष्टि करें</string>
+    <string name="save_your_dp">अपने डीपी को बचाएं</string>
+    <string name="save">सहेजें</string>
+    <string name="created_dp">डीपी बनाया गया</string>
+    <string name="saving">सहेजा जा रहा है ...</string>
+    <string name="download">डाउनलोड</string>
+    <string name="delete">हटाएं</string>
+    <string name="share">शेयर</string>
+    <string name="welcome_to_mydp">MyDp में स्वागत है</string>
+    <string name="create_account">खाता बनाने के लिए कृपया प्रतीक्षा करें ...</string>
+    <string name="loging_in">लॉग इन कर रहा है ...</string>
+    <string name="we_are_indian">हम भारतीय हैं</string>
+    <string name="registered_email">पंजीकृत ईमेल</string>
+    <string name="your_data_are_safe">आपका डेटा सुरक्षित है</string>
+    <string name="user_email">उपयोगकर्ता ईमेल</string>
+    <string name="name">नाम</string>
+    <string name="home">घर</string>
+    <string name="city">शहर</string>
+    <string name="setup_user_name_and_profile_picture">उपयोगकर्ता नाम और प्रोफ़ाइल चित्र सेटअप करें</string>
+    <string name="upload_user_photo">उपयोगकर्ता फोटो अपलोड करें</string>
+    <string name="set_profile">प्रोफ़ाइल सेट करें</string>
+    <string name="edit_photo">फ़ोटो संपादित करें</string>
+    <string name="do_you_want_set_wallpaper">क्या आप वॉलपेपर के रूप में सेट करना चाहते हैं?</string>
+
+    <string name="do_you_want_save_this_image">क्या आप इस छवि के रूप में चाहते हैं?</string>
+    <string name="save_image">छवि सहेजें</string>
+    <string name="delete_image">Delete Image</string>
+    <string name="do_want_delete_this">Do you want delete this?</string>
+
+
+</resources>

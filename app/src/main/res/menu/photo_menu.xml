@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/nav_download"
+        android:title="@string/download"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_download"/>
+    <item android:id="@+id/nav_delete"
+        app:showAsAction="ifRoom"
+        android:title="@string/delete"
+        android:icon="@drawable/ic_delete"/>
+    <item android:id="@+id/nav_share"
+        android:title="@string/share"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_share"/>
+</menu>

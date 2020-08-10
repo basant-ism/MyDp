@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:scrollbars="vertical"
+    android:background="@color/other_background"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+<RelativeLayout
+
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="50dp"
+    tools:context="authantication.UserRegisterActivity">
+     <ImageView
+         android:id="@+id/img_back"
+         android:layout_width="40dp"
+         android:layout_height="40dp"
+         android:onClick="goToBack"
+         android:layout_alignParentStart="true"
+         android:layout_alignParentTop="true"
+         android:layout_marginTop="20dp"
+         android:src="@drawable/back"/>
+    <TextView
+        android:id="@+id/tv_register_line"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/img_back"
+        android:text="@string/register_to_mydp"
+        android:textColor="@color/text_dark"
+        android:textStyle="bold"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="10dp"
+        android:paddingStart="10dp"
+        android:textSize="25dp"/>
+    <EditText
+        android:id="@+id/et_user_name"
+        android:layout_width="match_parent"
+        android:inputType="text"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_register_line"
+        android:layout_marginTop="30dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="15dp"
+        android:hint= "@string/full_name"
+        android:textSize="18sp"
+
+        android:layout_marginEnd="10dp"/>
+    <EditText
+        android:id="@+id/et_user_email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textEmailAddress"
+        android:layout_below="@+id/et_user_name"
+        android:layout_marginTop="10dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="15dp"
+        android:hint= "@string/email"
+        android:textSize="18sp"
+        android:layout_marginEnd="10dp"/>
+    <EditText
+        android:id="@+id/et_user_password"
+        android:inputType="textPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/et_user_email"
+        android:layout_marginTop="10dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="15dp"
+        android:hint= "@string/password"
+        android:textSize="18sp"
+
+        android:layout_marginEnd="10dp"/>
+
+    <Button
+
+        android:id="@+id/btn_register"
+        android:layout_width="match_parent"
+        android:textSize="25sp"
+        android:background="@drawable/button_background"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:onClick="userRegistration"
+        android:text="@string/register"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/et_user_password"
+        android:layout_marginTop="50dp"
+        android:layout_marginEnd="30dp"
+        android:layout_marginStart="30dp"
+        android:layout_height="wrap_content"/>
+    <LinearLayout
+        android:id="@+id/relative_layout3"
+        android:layout_centerHorizontal="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btn_register"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="30dp">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_dark"
+            android:text="@string/by_registering_you_agree_to"/>
+        <TextView
+            android:onClick="seeTerms"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/selver"
+            android:text="@string/term_and_conditions"/>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_centerHorizontal="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/relative_layout3"
+        android:layout_marginBottom="50dp"
+        android:gravity="center_horizontal"
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_dark"
+            android:text="@string/and"/>
+        <TextView
+            android:onClick="seePrivacyPolicy"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/selver"
+            android:text="@string/privacy_policy"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_dark"
+            android:text="@string/of_the_my_city"/>
+
+    </LinearLayout>
+
+
+</RelativeLayout>
+</ScrollView>

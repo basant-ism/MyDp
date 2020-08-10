@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/other_background"
+    android:layout_gravity="center_horizontal"
+    tools:context=".SplashActivity">
+    <com.agrawalsuneet.dotsloader.loaders.TrailingCircularDotsLoader
+        android:id="@+id/rood"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:trailingcircular_animDelay="200"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        app:trailingcircular_animDuration="1200"
+        app:trailingcircular_bigCircleRadius="40dp"
+        app:trailingcircular_dotsColor="@color/selver"
+        app:trailingcircular_dotsRadius="11dp"
+        app:trailingcircular_noOfTrailingDots="5" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rood"
+        android:orientation="horizontal"
+        android:gravity="center_horizontal"
+        android:layout_centerHorizontal="true"
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/selver"
+            android:textSize="20sp"
+            android:textStyle="italic"
+            android:text="@string/welcome_to_mydp"
+            />
+
+    </LinearLayout>
+
+
+</RelativeLayout>
